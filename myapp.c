@@ -24,4 +24,5 @@ void main()
      foo();
      goo();
      postprocess();
+     printf("Hello~ KCM\n");
 }	
