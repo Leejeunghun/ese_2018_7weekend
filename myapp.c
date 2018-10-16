@@ -5,10 +5,15 @@ void preprocess()
 {
     printf("preprocess doing\n");
 }
+void postprocess()
+{
+    printf("post\n");
+}
 
 void main()
 {
      preprocess();
      foo();
      goo();
+     postprocess();
 }	
