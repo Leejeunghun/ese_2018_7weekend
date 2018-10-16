@@ -5,5 +5,5 @@ void foo()
 {
 
    printf("hello\n");
-
+   pritnf("WTF\n");
 }	
