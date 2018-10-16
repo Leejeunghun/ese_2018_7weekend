@@ -1,7 +1,7 @@
 
 CC= gcc
 CFLAGS= -Wall
-OBJS= func1.c myapp.c
+OBJS= func1.c func2.c  myapp.c
 TARGET= myapp
 
 $(TARGET):$(OBFT)
